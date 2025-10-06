@@ -1,0 +1,7 @@
+### Upright Pyramid Triangle
+```md
+*********
+ *******
+  *****
+   ***
+    *
