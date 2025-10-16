@@ -1,0 +1,847 @@
+﻿OS,Installers,Binaries
+SDK 8.0.121,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+SDK 8.0.318,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+SDK 8.0.415,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+ASP.NET Core Runtime 8.0.21,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+.NET Desktop Runtime 8.0.21,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+.NET Runtime 8.0.21,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,Package manager instructions,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,,Arm64  |  x64
+Windows,x64  |  x86  |  Hosting Bundle  |  winget instructions,x64  |  x86  |  Arm64
+ , , 
+,,
+Windows,x64  |  x86  |  Arm64  |  winget instructions,
+ , , 
+,,
+Linux,,Arm32  |  Arm32 Alpine  |  Arm64  |  Arm64 Alpine  |  x64  |  x64 Alpine
+macOS,Arm64  |  x64,Arm64  |  x64
+Windows,x64  |  x86  |  Arm64  |  winget instructions,x64  |  x86  |  Arm64
+All,dotnet-install scripts,
+ , , 
